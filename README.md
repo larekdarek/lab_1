@@ -48,7 +48,7 @@ project_root/
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/larekdarek/lab_1.git
-   cd team-management-app
+   cd lab_1
    ```
 
 2. **Build and Start the Docker Containers**:
