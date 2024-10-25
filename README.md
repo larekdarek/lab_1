@@ -47,7 +47,7 @@ project_root/
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/team-management-app.git
+   git clone https://github.com/larekdarek/lab_1.git
    cd team-management-app
    ```
 
